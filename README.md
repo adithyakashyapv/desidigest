@@ -1,2 +1,2 @@
-# desidigest
- DesiDigest: Your go-to for Indian headlines! Extracting, summarizing, and crafting 50-60 word editorials. Plus, we turn the summaries into visual delights! Stay informed, Desi style!
+# DesiDigest
+ 📰 DesiDigest: Unleash the power of code to curate top headlines from India! This repository houses the magic behind extracting, summarizing, and crafting 50-60 word editorials for the latest news. But that's not all – it transforms these summaries into visually appealing images, adding a creative touch to your daily news consumption. Stay informed, Desi style! 🇮🇳✨
